@@ -1,2 +1,3 @@
 # UW-Madison-SDC-final-product
-# project in collaboration with benito2268, TongluRemiYang & SriramAlla123
+project in collaboration with benito2268, TongluRemiYang & SriramAlla123
+run Game.java
